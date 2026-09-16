@@ -1,0 +1,6 @@
+Computer type: LAPTOP-MQLR88FU7
+CPU: 12th Gen Intel(R) Core(TM) i5-1235U
+Memory: 8.00 GB
+OS: Windows 11 Home
+HD: 237 GB
+Display Resolution: 1536x1024
